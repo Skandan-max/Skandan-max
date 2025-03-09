@@ -45,7 +45,23 @@ You can reach me at **[skandan2003@gmail.com](mailto:skandan2003@gmail.com)**
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a> 
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
+  </a> 
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  </a>
+  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
+  </a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/cnlangchain/langchain-docs/main/docs/img/langchain-h-dark.svg" alt="Langchain" width="40" height="40"/>
+  </a>
+  <a href="https://openai.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" width="40" height="40"/>
+  </a>
 </p>
+
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Skandan-max&show_icons=true&locale=en&layout=compact" alt="Skandan-max" />
