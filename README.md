@@ -54,9 +54,7 @@ You can reach me at **[skandan2003@gmail.com](mailto:skandan2003@gmail.com)**
   <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
   </a>
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/cnlangchain/langchain-docs/main/docs/img/langchain-h-dark.svg" alt="Langchain" width="40" height="40"/>
-  </a>
+ 
   <a href="https://openai.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" width="40" height="40"/>
   </a>
