@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Skandan</h1>
+<h1 align="center">Hi, I'm Skandan</h1>
 <h3 align="center">A developer currently studying at IIT Madras</h3>
 
 You can reach me at **[skandan2003@gmail.com](mailto:skandan2003@gmail.com)**  
