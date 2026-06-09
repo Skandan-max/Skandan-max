@@ -61,9 +61,9 @@ You can reach me at **[skandan2003@gmail.com](mailto:skandan2003@gmail.com)**
 </p>
 
 
-<p>
+<!-- <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Skandan-max&show_icons=true&locale=en&layout=compact" alt="Skandan-max" />
-</p>
+</p> -->
 
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Skandan-max&" alt="Skandan-max" />
